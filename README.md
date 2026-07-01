@@ -14,7 +14,7 @@ Final-year Computer Science student focused on **Web Development** and **Data An
 
 ## About
 
-I'm a final-year CS student who builds web applications and works with data to uncover useful insights. Currently looking for internship or entry-level opportunities in software development or data analytics.
+Final-year Computer Science Engineering student at National Engineering College with hands-on experience building full-stackweb applications using the MERN stack. Developed three end-to-end projects covering REST API design, JWT authentication,cloud deployment, and data analytics dashboards. Passionate about solving real-world problems through scalable software solutions and eager to contribute in a fast-paced engineering team as a Full Stack Developer .
 
 - 🎓 Final year, B.Tech Computer Science
 - 💻 Comfortable across the stack, from building UIs to querying databases
@@ -38,12 +38,11 @@ I'm a final-year CS student who builds web applications and works with data to u
 
 ## Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [LifeShare - Blood and Plasma Mangement System](https://github.com/mnataraj2006/blood_bank-main-/tree/main) | React.js | Node.js | Express.js | MongoDB | REST APIs | JWT | Git |
-| [Multi-Domain On-Demand Services & Performance Analytics Platform](https://github.com/mnataraj2006/MultiDomain-Platform) | React.js | Node.js | Express.js | Charts.js | MongoDB | REST APIs | JWT |
-| [Job Market Analytics & Job Role Prediction System
-](https://github.com/mnataraj2006/job-market-analysis-ml) | One-line description of your third project. | Python | Pandas | scikit-learn | Power BI | Adzuna API | Machine Learning, Random Forest | K-Means Clustering | PCA |
+| Project | Tech Stack |
+|---|---|
+| [LifeShare - Blood and Plasma Mangement System](https://github.com/mnataraj2006/blood_bank-main-/tree/main) | React.js, Node.js , Express.js , MongoDB ,REST APIs , JWT , Git |
+| [Multi-Domain On-Demand Services & Performance Analytics Platform](https://github.com/mnataraj2006/MultiDomain-Platform) | React.js , Node.js , Express.js , Charts.js , MongoDB , REST APIs , JWT |
+| [Job Market Analytics & Job Role Prediction System](https://github.com/mnataraj2006/job-market-analysis-ml) | Python , Pandas , scikit-learn , Power BI , Adzuna API , Machine Learning , Random Forest , K-Means Clustering , PCA |
 
 ---
 
@@ -51,8 +50,8 @@ I'm a final-year CS student who builds web applications and works with data to u
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mnataraj2006&show_icons=true&theme=default&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnataraj2006&layout=compact&theme=default&hide_border=true" width="48%" />
 
 </div>
 
