@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Your Name 👋
+# Hi, I'm Nataraj M👋
 
 Final-year Computer Science student focused on **Web Development** and **Data Analytics**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mnataraj21032006)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mnataraj2108@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio2312031.vercel.app/)
 
 </div>
 
@@ -40,9 +40,10 @@ I'm a final-year CS student who builds web applications and works with data to u
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [Project One](https://github.com/YOUR-USERNAME/project-one) | One-line description of what it does and the problem it solves. | React, Node.js, MongoDB |
-| [Project Two](https://github.com/YOUR-USERNAME/project-two) | One-line description — e.g. a dashboard analyzing X dataset. | Python, Pandas, Power BI |
-| [Project Three](https://github.com/YOUR-USERNAME/project-three) | One-line description of your third project. | SQL, Flask, REST API |
+| [LifeShare - Blood and Plasma Mangement System](https://github.com/mnataraj2006/blood_bank-main-/tree/main) | React.js | Node.js | Express.js | MongoDB | REST APIs | JWT | Git |
+| [Multi-Domain On-Demand Services & Performance Analytics Platform](https://github.com/mnataraj2006/MultiDomain-Platform) | React.js | Node.js | Express.js | Charts.js | MongoDB | REST APIs | JWT |
+| [Job Market Analytics & Job Role Prediction System
+](https://github.com/mnataraj2006/job-market-analysis-ml) | One-line description of your third project. | Python | Pandas | scikit-learn | Power BI | Adzuna API | Machine Learning, Random Forest | K-Means Clustering | PCA |
 
 ---
 
